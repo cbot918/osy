@@ -13,3 +13,6 @@ https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf
 https://www.youtube.com/watch?v=fWUJKH0RNFE&list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB&index=1
 作業答案
 https://github.com/Babtsov/jos 
+
+讀書心得
+https://hackmd.io/@MarconiJiang/xv6_analysis?utm_source=preview-mode&utm_medium=rec
